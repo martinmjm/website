@@ -1,0 +1,24 @@
+#header {
+  /* position:fixed; */
+   display:block; 
+  /* width:1200px; */
+  height:50px;
+  background-color:lightblue;
+}
+#header ul {
+  list-style-type:none;
+  padding-top:15px;
+}
+#header li {
+  margin-left:5px;margin-right:5px;
+  display:inline;
+  position:center;
+  padding:5px 10px 7px 10px;
+  background-color:grey;
+  border-radius: 8px;
+}
+#header a,#header li {
+  color:white;
+  text-decoration:none;
+}
+
